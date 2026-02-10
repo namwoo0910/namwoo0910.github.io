@@ -61,10 +61,9 @@ updateActiveLink();
    ======================================== */
 const typingElement = document.getElementById('typing-text');
 const phrases = [
-  'Software Engineer',
-  'Machine Learning Researcher',
-  'Problem Solver',
-  'Open Source Enthusiast'
+  'Spatial-temporal Data Mining',
+  'Topological Data Analysis',
+  'Urban Informatics'
 ];
 
 let phraseIndex = 0;

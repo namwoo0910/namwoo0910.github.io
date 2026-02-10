@@ -505,9 +505,19 @@ ul {
 /* ========================================
    Publications Section
    ======================================== */
+.pub-section-heading {
+  max-width: 800px;
+  margin: 0 auto 24px;
+  font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--accent);
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--border-color);
+}
+
 .publications-list {
   max-width: 800px;
-  margin: 0 auto;
+  margin: 0 auto 40px;
 }
 
 .publication-item {
